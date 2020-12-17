@@ -1,1 +1,1 @@
-tinder-swipe
+Code commented for user changes, as coded this bot will like all and dismiss popups.  Time (e.g. time.sleep(x), x = seconds) may need to be adjusted based on your own internet connection, more time is better- but takes longer.  User experiance of pass on except and finally will allow for more clickability while bot is running.  This is set for a free account, change the range or nest the swipe/like code in a while True loop to run forever.
